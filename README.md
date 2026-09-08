@@ -1,5 +1,5 @@
 # 💫 Helloooo:
-😄 My name is Pat and I am a student making his way through the coding world. I'm focusing on c++ right now.<br>🎮 I enjoy playing games<br>⚽ I play soccer<br>💻 I like programming and building projects<br>🧠 Currently learning C++<br>🚀 Interested in software and game development
+😄 My name is Pat and I am a student making his way through the coding world.<br>🎮 I enjoy playing games<br>⚽ I play soccer<br>💻 I like programming and building projects<br>🧠 Currently learning C++<br>🚀 Interested in software and game development
 
 
 ## 🌐 Socials:
