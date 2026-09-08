@@ -1,19 +1,21 @@
-# Hellooo!🙌
+# 💫 Helloooo:
+🎮 I enjoy playing games<br>⚽ I play soccer<br>💻 I like programming and building projects<br>🧠 Currently learning C++<br>🚀 Interested in software and game development
 
-I'm Pat, a student and aspiring software engineer based in the USA.
 
-I'm currently learning C++ and building small projects to improve my programming skills. I'm interested in software development and game development.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pat.config) 
 
-## Tools & Tech
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pat-config&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=pat-config&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pat-config&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- C++
-- Git & GitHub
-- JetBrains CLion
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pat-config&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## A Bit About Me
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pat.config) 
 
-- 🎮 I enjoy playing games
-- ⚽ I play soccer
-- 💻 I like programming and building projects
-- 🧠 Currently learning C++
-- 🚀 Interested in software and game development
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
