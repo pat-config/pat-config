@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**pat-config/pat-config** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pat, a student and aspiring software engineer based in the USA.
 
-Here are some ideas to get you started:
+I'm currently learning C++ and building small projects to improve my programming skills. I'm interested in software development and game development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Tech
+
+- C++
+- Git & GitHub
+- JetBrains CLion
+
+## A Bit About Me
+
+- 🎮 I enjoy playing games
+- ⚽ I play soccer
+- 💻 I like programming and building projects
+- 🧠 Currently learning C++
+- 🚀 Interested in software and game development
